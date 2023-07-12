@@ -10,7 +10,8 @@ Equipped with a boundless curiosity and a love for technology, I am a web develo
 * 🌍  I'm based in Atlanta, GA
 * 🖥️  See my [Portfolio](http://parkerramey.super.site)
 * ✉️  You can contact me at my [email](mailto:parkerramey@yahoo.com)
-* 🧠  I'm learning data structures and algorithms at [Zero to Mastery](https://zerotomastery.io/courses/learn-data-structures-and-algorithms/)
+* 🧠  I'm learning both data structures and algorithms at [Zero to Mastery](https://zerotomastery.io/courses/learn-data-structures-and-algorithms/)
+* 🧠  I'm also taking the junior to senior web developer course at [Zero to Mastery](https://academy.zerotomastery.io/courses/enrolled/700470)
 * 🤝  I'm open to collaborating on projects
 * ⚡  I consider myself a lifelong student as I strive to continue learning and growing, both professionally and personally
 
