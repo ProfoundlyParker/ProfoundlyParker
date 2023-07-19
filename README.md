@@ -38,6 +38,8 @@ Equipped with a boundless curiosity and a love for technology, I am a web develo
 <a href="https://www.github.com/ProfoundlyParker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" /></a>
 </p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## My GitHub Stats
 
@@ -45,6 +47,7 @@ Equipped with a boundless curiosity and a love for technology, I am a web develo
 
 
 <a href="https://github.com/ProfoundlyParker" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfoundlyParker&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 <b>Top Repositories</b>
 
