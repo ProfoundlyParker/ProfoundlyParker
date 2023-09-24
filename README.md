@@ -1,7 +1,7 @@
 # Hello👋🏻 My name is Parker Ramey
 
 
-<p>Your Friendly Neighborhood Web Developer/Engineer 🕸️💻 </p> <img src='https://media.tenor.com/GKMmGHuloRYAAAAC/spider-man-hey-everyone.gif' alt='Spider-Man Meme' height='200px' widht='300px'>
+<h2>Your Friendly Neighborhood Web Developer/Engineer 🕸️💻 </h2> <img src='https://media.tenor.com/GKMmGHuloRYAAAAC/spider-man-hey-everyone.gif' alt='Spider-Man Meme' height='200px' widht='300px'>
 
 
 Equipped with a boundless curiosity and a love for technology, I am a web developer who is committed to lifelong learning and continuous personal growth.
