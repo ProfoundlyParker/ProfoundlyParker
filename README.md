@@ -76,3 +76,6 @@ Equipped with a boundless curiosity and a love for technology, I am a web develo
 
 ### GitHub Languages
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProfoundlyParker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+### Holopins
+[![An image of @profoundlyparker's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/profoundlyparker)](https://holopin.io/@profoundlyparker)
