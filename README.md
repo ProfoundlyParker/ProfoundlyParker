@@ -10,10 +10,9 @@ Equipped with a boundless curiosity and a love for technology, I am a web develo
 * 🌍  I'm based in Atlanta, GA
 * 🖥️  See my [Portfolio](http://parkerramey.super.site)
 * ✉️  You can contact me on [LinkedIn](https://linkedin.com/in/parker-ramey-a27b9b257/)
-* 🧠  I'm currently taking the Junior to Senior Web Developer course at [Zero to Mastery](https://academy.zerotomastery.io/courses/enrolled/700470)
+* 🧠  I'm currently taking the C# and .NET course at [Zero to Mastery](https://academy.zerotomastery.io/courses/enrolled/2025735)
 * 🤝  I'm open to remote work
 * ⚡  I consider myself a lifelong student as I strive to continue learning and growing, both professionally and personally
-  <!-- * 🧠  I'm learning both data structures and algorithms at [Zero to Mastery](https://zerotomastery.io/courses/learn-data-structures-and-algorithms/) -->
 
 ### Languages and Tools
 
