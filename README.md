@@ -4,7 +4,7 @@
 <h2>Your Friendly Neighborhood Web Developer/Engineer 🕸️💻 </h2> <img src='https://media.tenor.com/GKMmGHuloRYAAAAC/spider-man-hey-everyone.gif' alt='Spider-Man Meme' height='200px' widht='300px'>
 
 
-Equipped with a boundless curiosity and a love for technology, I am a web developer who is committed to lifelong learning and continuous personal growth.
+Guided by a passion for using technology as a force for good, I am a full-stack web developer and lifelong learner committed to making a positive impact.
 
 * 💖  Pronouns: They/Them
 * 🌍  I'm based in Atlanta, GA
