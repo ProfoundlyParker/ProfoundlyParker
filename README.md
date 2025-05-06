@@ -71,7 +71,7 @@ Equipped with a boundless curiosity and a love for technology, I am a web develo
 ### Connect With Me
 
 <p style="flex">
-<a href="https://linkedin.com/in/parker-ramey-a27b9b257/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="parker-ramey-a27b9b257/" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/parker-ramey-a27b9b257/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="parker-ramey-a27b9b257/" height="45" width="45" /></a>
 <a href="https://www.github.com/ProfoundlyParker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="45" height="45" /></a>
 </p>
 
