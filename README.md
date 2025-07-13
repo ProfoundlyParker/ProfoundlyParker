@@ -10,7 +10,7 @@ Guided by a passion for using technology as a force for good, I am a full-stack 
 * 🌍  I'm based in Atlanta, GA
 * 🖥️  See my [Portfolio](http://parkerramey.super.site)
 * ✉️  You can contact me on [LinkedIn](https://linkedin.com/in/parker-ramey-a27b9b257/)
-* 🧠  I'm currently taking the C# and .NET course at [Zero to Mastery](https://academy.zerotomastery.io/courses/enrolled/2025735)
+* 🧠  I'm currently taking the Testing: The Complete Developer's Guide course at [Zero to Mastery](https://zerotomastery.io/courses/software-testing-course/)
 * 🤝  I'm open to remote work
 * ⚡  I consider myself a lifelong student as I strive to continue learning and growing, both professionally and personally
 
