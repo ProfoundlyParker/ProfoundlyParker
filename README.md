@@ -1,7 +1,7 @@
 # Hello👋🏻 My name is Parker Ramey
 
 
-<h2>Your Friendly Neighborhood Web Developer/Engineer 🕸️💻 </h2> <img src='https://media.tenor.com/GKMmGHuloRYAAAAC/spider-man-hey-everyone.gif' alt='Spider-Man Meme' height='200px' widht='300px'>
+<h2>Your Friendly Neighborhood Web & QA Developer/Engineer 🕸️💻 </h2> <img src='https://media.tenor.com/GKMmGHuloRYAAAAC/spider-man-hey-everyone.gif' alt='Spider-Man Meme' height='200px' widht='300px'>
 
 
 Guided by a passion for using technology as a force for good, I am a full-stack web developer and lifelong learner committed to making a positive impact.
@@ -10,9 +10,8 @@ Guided by a passion for using technology as a force for good, I am a full-stack 
 * 🌍  I'm based in Atlanta, GA
 * 🖥️  See my [Portfolio](http://parkerramey.super.site)
 * ✉️  You can contact me on [LinkedIn](https://linkedin.com/in/parker-ramey-a27b9b257/)
-* 🧠  I'm currently taking the Testing: The Complete Developer's Guide course at [Zero to Mastery](https://zerotomastery.io/courses/software-testing-course/)
-* 🤝  I'm open to remote work
-* ⚡  I consider myself a lifelong student as I strive to continue learning and growing, both professionally and personally
+* 🤝  I'm looking for remote work
+* 🧠  I consider myself a lifelong student as I strive to continue learning and growing, both professionally and personally
 
 ### Languages and Tools
 
